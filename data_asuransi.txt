@@ -1,0 +1,159 @@
+bulan : 07
+tahun : 2016
+kelurahan : Pondok Labu
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Penerima Bantuan Iuran (BPJS PBI)
+jumlah_peserta : 1812
+
+bulan : 07
+tahun : 2016
+kelurahan : Pondok Labu
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Mandiri
+jumlah_peserta : 945
+
+bulan : 07
+tahun : 2016
+kelurahan : Pondok Labu
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Asuransi Swasta
+jumlah_peserta : 158
+
+bulan : 07
+tahun : 2016
+kelurahan : Pondok Labu
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Tidak Memiliki Asuransi
+jumlah_peserta : 847
+
+bulan : 07
+tahun : 2016
+kelurahan : Cipete Selatan
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Penerima Bantuan Iuran (BPJS PBI)
+jumlah_peserta : 2947
+
+bulan : 07
+tahun : 2016
+kelurahan : Cipete Selatan
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Mandiri
+jumlah_peserta : 474
+
+bulan : 07
+tahun : 2016
+kelurahan : Cipete Selatan
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Asuransi Swasta 
+jumlah_peserta : 38
+
+bulan : 07
+tahun : 2016
+kelurahan : Cipete Selatan
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Tidak Memiliki Msuransi
+jumlah_peserta : 1073
+
+bulan : 07
+tahun : 2016
+kelurahan : Gandaria Selatan
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Penerima Bantuan Iuran (BPJS PBI)
+jumlah_peserta : 2317
+
+bulan : 07
+tahun : 2016
+kelurahan : Gandaria Selatan
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Mandiri
+jumlah_peserta : 1062
+
+bulan : 07
+tahun : 2016
+kelurahan : Gandaria Selatan
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Asuransi Swasta
+jumlah_peserta : 42
+
+bulan : 07
+tahun : 2016
+kelurahan : Gandaria Selatan
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Tidak Memiliki Asuransi
+jumlah_peserta : 1596
+
+bulan : 07
+tahun : 2016
+kelurahan : Lebak Bulus
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Penerima Bantuan Iuran (BPJS PBI)
+jumlah_peserta : 2248
+
+bulan : 07
+tahun : 2016
+kelurahan : Lebak Bulus
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Mandiri
+jumlah_peserta : 1246
+
+bulan : 07
+tahun : 2016
+kelurahan : Lebak Bulus
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Asuransi Swasta
+jumlah_peserta : 51
+
+bulan : 07
+tahun : 2016
+kelurahan : Lebak Bulus
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Tidak Memiliki Asuransi
+jumlah_peserta : 1986
+
+bulan : 07
+tahun : 2016
+kelurahan : Cilandak Barat
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Penerima Bantuan Iuran (BPJS PBI)
+jumlah_peserta : 3073
+
+bulan : 07
+tahun : 2016
+kelurahan : Cilandak Barat
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : BPJS Mandiri
+jumlah_peserta : 1947
+
+bulan : 07
+tahun : 2016
+kelurahan : Cilandak Barat
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Asuransi Swasta
+jumlah_peserta : 174
+
+bulan : 07
+tahun : 2016
+kelurahan : Cilandak Barat
+kecamatan : Cilandak
+kota_administrasi : Jakarta Selatan
+jenis_asuransi : Tidak Memiliki Asuransi
+jumlah_peserta : 1880
